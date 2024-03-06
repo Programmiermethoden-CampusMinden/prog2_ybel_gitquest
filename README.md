@@ -16,7 +16,7 @@ It comes with batteries included:
     -   [JDK 21] based projects
     -   Default [Gradle Java project layout]
     -   [JUnit 5] for software testing
-    -   [Checkstyle] to heck for valid Javadoc comments for all `public` elements in source
+    -   [Checkstyle] to check for valid Javadoc comments for all `public` elements in source
         code
     -   [Spotless] to check formatting of Java code using the [Google Java Style Guide], can
         also format sources if necessary
