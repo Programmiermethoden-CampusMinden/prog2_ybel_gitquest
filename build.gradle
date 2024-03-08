@@ -30,6 +30,9 @@ java {
 }
 [compileJava, compileTestJava]*.options*.encoding = 'UTF-8'
 
+sourceSets.main.java.srcDirs = ['src/main/java/', 'solution/main/java/']
+sourceSets.test.java.srcDirs = ['src/test/java/']
+
 
 test {
     useJUnitPlatform()
