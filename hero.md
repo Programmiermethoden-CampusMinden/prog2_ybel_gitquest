@@ -1,3 +1,3 @@
 # Hero
 
-Es riecht hier irgendwie seltsam, abgestanden und moderig. Von irgendwo kommt eine schwache Beleuchtung her. Ich schleiche vorsichtig die Gänge entlang und sehe in der Ferne eine Tür.
+Vorsichtig öffne ich die Tür. Direkt dahinter ist wieder eine Ratte - aber sie schläft. Ich merke, dass mein Schwert gegen ein schlafendes Monster wirkungsvoller ist.
