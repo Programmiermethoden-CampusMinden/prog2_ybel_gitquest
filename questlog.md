@@ -11,3 +11,5 @@ Schließlich erreichte Markus einen versteckten Raum im Dungeon, in dem ein myst
 Erfrischt und gestärkt machte sich Markus auf den Weg, um die letzte Etappe seiner Quest zu erfüllen. Er kämpfte gegen eine Horde von untoten Kreaturen und bestand Prüfungen, die kaum ein anderer Held überlebt hätte.
 
 Schließlich erreichte Markus sein Ziel - den versteckten Schrein, an dem er die Quest erfüllen musste. Dort stand das strahlende Amulet und wartete auf ihn.
+
+Markus kehrte als Held in sein Dorf zurück und wurde von allen gefeiert. Sein Abenteuer im Dungeon hatte ihn nicht nur gestärkt, sondern auch zu einem wahren Helden gemacht, der das Land vor dem Bösen beschützte.
