@@ -1,3 +1,3 @@
 # Hero
 
-Vorsichtig öffne ich die Tür. Direkt dahinter ist wieder eine Ratte - aber sie schläft. Ich merke, dass mein Schwert gegen ein schlafendes Monster wirkungsvoller ist.
+Ich schleiche weiter, immer auf der Hut vor Monstern. Irgendwo muss es doch hier tiefer in den Dungeon gehen? Langsam bekomme ich Hunger.
