@@ -1,3 +1,3 @@
 # Hero
 
-Schau mal, die Gerippe lassen was fallen, wenn sie besiegt sind.
+Ein Heiltrank! Das ist gut, das kann ich später sicher gebrauchen.
