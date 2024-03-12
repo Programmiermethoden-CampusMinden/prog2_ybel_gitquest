@@ -2,8 +2,8 @@
 
 | Property   | Value         |
 |------------|---------------|
-| health     | 5             |
+| health     | 10            |
 | experience | 10            |
-| hunger     | 10            |
+| hunger     | 0             |
 | weapon     | sword (3 dmg) |
 | armor      | light (2 dmg) |
