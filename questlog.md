@@ -13,3 +13,5 @@ Erfrischt und gestärkt machte sich Markus auf den Weg, um die letzte Etappe sei
 Schließlich erreichte Markus sein Ziel - den versteckten Schrein, an dem er die Quest erfüllen musste. Dort stand das strahlende Amulet und wartete auf ihn.
 
 Markus kehrte als Held in sein Dorf zurück und wurde von allen gefeiert. Sein Abenteuer im Dungeon hatte ihn nicht nur gestärkt, sondern auch zu einem wahren Helden gemacht, der das Land vor dem Bösen beschützte.
+
+Und so endet die Geschichte von Markus, dem tapferen Helden, der in den Dungeon stieg, gegen Monster kämpfte, eine Quest erfüllte und in einem Shop verhandelte und Lebensmittel kaufte. Seine Geschichte würde für immer in den Legenden des Landes weiterleben.
