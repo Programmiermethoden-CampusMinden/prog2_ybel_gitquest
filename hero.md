@@ -1,3 +1,3 @@
 # Hero
 
-Wow, was glitzert da vorne so?
+Hier scheint jemand 10 Goldstücke verloren zu haben. Ich sammle die besser mal auf.
