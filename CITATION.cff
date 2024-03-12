@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: Student Support Code Template
+title: Student Support Code for 'Git Quest' Task
 message: >-
   If you use this lecture material, please cite it using the
   metadata from this file.
@@ -14,8 +14,10 @@ authors:
     affiliation: HSBI
     orcid: 'https://orcid.org/0000-0002-4230-9060'
 repository-code: >-
-  https://github.com/Programmiermethoden-CampusMinden/student-support-code-template
-abstract: "This is a template repo for providing student support code (e.g.\_source code and tests) for Java based homework assignments."
+  https://github.com/Programmiermethoden-CampusMinden/prog2_ybel_gitquest
+abstract: >-
+  This represents the student support code for the Git Quest
+  task.
 keywords:
   - java
   - git
