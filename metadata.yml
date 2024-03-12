@@ -1,0 +1,34 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Student Support Code Template
+description: "This is a template repo for providing student support code (e.g.\_source code and tests) for Java based homework assignments."
+license: https://opensource.org/licenses/MIT
+id: >-
+  https://github.com/Programmiermethoden-CampusMinden/student-support-code-template
+creator:
+  - givenName: Carsten
+    familyName: Gips
+    id: https://orcid.org/0000-0002-4230-9060
+    type: Person
+    affiliation:
+      name: Hochschule Bielefeld
+      type: Organization
+keywords:
+  - java
+  - git
+  - testing
+  - clean code
+  - oer
+inLanguage:
+  - de
+about:
+  - https://w3id.org/kim/hochschulfaechersystematik/n079
+image: >-
+  https://github.com/Programmiermethoden-CampusMinden/Prog2-Lecture/blob/master/static/images/logo.png?raw=true
+learningResourceType:
+  - https://w3id.org/kim/hcrt/drill_and_practice
+educationalLevel:
+  - https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_6
+datePublished: '2024-02-28'

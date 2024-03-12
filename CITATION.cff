@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Student Support Code Template
+message: >-
+  If you use this lecture material, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Carsten
+    family-names: Gips
+    email: cagix@hsbi.de
+    affiliation: HSBI
+    orcid: 'https://orcid.org/0000-0002-4230-9060'
+repository-code: >-
+  https://github.com/Programmiermethoden-CampusMinden/student-support-code-template
+abstract: "This is a template repo for providing student support code (e.g.\_source code and tests) for Java based homework assignments."
+keywords:
+  - java
+  - git
+  - testing
+  - clean code
+  - oer
+license: MIT

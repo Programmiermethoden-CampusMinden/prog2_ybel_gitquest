@@ -1,0 +1,61 @@
+plugins {
+    id 'java'
+
+    id 'checkstyle'
+    id 'com.diffplug.spotless' version '6.25.0'
+}
+
+
+repositories {
+    mavenCentral()
+}
+
+
+dependencies {
+    // https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter
+    testImplementation 'org.junit.jupiter:junit-jupiter:5.10.2'
+    // https://mvnrepository.com/artifact/org.junit.platform/junit-platform-launcher
+    testRuntimeOnly 'org.junit.platform:junit-platform-launcher:1.10.2'
+
+    // https://mvnrepository.com/artifact/org.mockito/mockito-core
+    testImplementation 'org.mockito:mockito-core:5.11.0'
+}
+
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(21)
+    }
+    sourceCompatibility = JavaVersion.VERSION_21
+}
+[compileJava, compileTestJava]*.options*.encoding = 'UTF-8'
+
+sourceSets.main.java.srcDirs = ['src/main/java/', 'solution/main/java/']
+sourceSets.test.java.srcDirs = ['src/test/java/']
+
+
+test {
+    useJUnitPlatform()
+}
+
+checkstyle {
+    configFile = file('checkstyle.xml')
+    // Default version vs. current version? The default version is quite old (9.3 from
+    // Jan 30, 2022), so let's go with the current version (10.14).
+    // However, this needs to be updated manually as Dependabot won't deal with this!
+    toolVersion = '10.14.0'
+    ignoreFailures = false
+    maxWarnings = 0
+}
+// Workaround to resolve CS dependencies: https://github.com/checkstyle/checkstyle/issues/14123#issuecomment-1961029772
+configurations.checkstyle {
+    resolutionStrategy.capabilitiesResolution.withCapability("com.google.collections:google-collections") {
+        select("com.google.guava:guava:0")
+    }
+}
+
+spotless {
+    java {
+        googleJavaFormat().aosp().reflowLongStrings()
+    }
+}
