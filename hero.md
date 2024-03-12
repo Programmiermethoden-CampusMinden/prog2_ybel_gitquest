@@ -1,3 +1,1 @@
 # Hero
-
-Danke Dir vielmals!
