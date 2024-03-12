@@ -1,3 +1,1 @@
 # Hero
-
-Hallo, Herr Shopkeeper!
