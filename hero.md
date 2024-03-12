@@ -1,3 +1,3 @@
 # Hero
 
-Oh Mist, da vorn lauern seltsame Gerippe. Das sieht nicht gut aus. Hoffentlich bemerken sie mich nicht.
+Sie greifen an. Das ist ein harter Kampf mit meinem kleinen Schwert. Ich hätte mir im Shop ein größeres kaufen sollen.
