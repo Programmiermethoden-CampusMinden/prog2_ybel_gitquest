@@ -46,4 +46,4 @@ jobs:
         with:
           java-version: '21'
           distribution: 'temurin'
-      - run: ./gradlew checkstyleMain
+      - run: ./gradlew checkstyleMain checkstyleTest
