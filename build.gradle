@@ -13,7 +13,7 @@ repositories {
 
 dependencies {
     // https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter
-    testImplementation 'org.junit.jupiter:junit-jupiter:5.10.2'
+    testImplementation 'org.junit.jupiter:junit-jupiter:5.10.3'
     // https://mvnrepository.com/artifact/org.junit.platform/junit-platform-launcher
     testRuntimeOnly 'org.junit.platform:junit-platform-launcher:1.10.2'
 
