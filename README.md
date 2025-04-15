@@ -11,7 +11,7 @@ Java based homework assignments.
 
 It comes with batteries included:
 
--   [Gradle 8.6] preinstalled
+-   [Gradle 8.13] preinstalled
 -   Basic Gradle configuration:
     -   [JDK 21] based projects
     -   Default [Gradle Java project layout]
@@ -42,7 +42,7 @@ Allow actions*"). You need to allow at least the following actions: `actions/che
 
 This [work] by [Carsten Gips] and [contributors] is licensed under [MIT].
 
-  [Gradle 8.6]: https://docs.gradle.org/8.6/release-notes.html
+  [Gradle 8.13]: https://docs.gradle.org/8.13/release-notes.html
   [JDK 21]: https://jdk.java.net/21/
   [Gradle Java project layout]: https://docs.gradle.org/current/userguide/java_plugin.html#sec:java_project_layout
   [JUnit 5]: https://junit.org/junit5/
